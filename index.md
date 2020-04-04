@@ -10,7 +10,7 @@ layout: home
 
 Hello, there,
 
-My name is Benjamin Barr, and I am a first-year graduate student in mathematics at Purdue University. Welcome to my web site!
+My name is Ben Barr, and I am a first-year graduate student in mathematics at Purdue University. Welcome to my web site!
 
 CONTACT INFO
 * Mathematical Sciences Building, 150 N. University St., West Lafayette, IN 47907

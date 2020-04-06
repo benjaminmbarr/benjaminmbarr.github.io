@@ -17,3 +17,7 @@ CONTACT INFO
 * Office: B011
 * Phone: (812) 363-5492
 * Email: [barr20@purdue.edu](mailto:barr20@purdue.edu)
+
+EDUCATION
+* Purdue University, B.S. Mathematics, 2018
+* Purdue University, M.S. Mathematics, in progress
